@@ -1,0 +1,4 @@
+streamlit        # For the web interface
+PyPDF2          # For PDF processing
+groq            # For Groq API client
+python-dotenv   # For environment variable management
